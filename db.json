@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 4" }
+  "filmInStage": [
+    { "id": 1, "nameImg": "http://onlyreal.pro/img/instage/title.png", 
+      "description": "Чтобы обрести свободу, киллер-изгой бросает вызов Правлению кланов. Самая зрелищная часть стильной экшен-саги",
+      "mainImg": "http://onlyreal.pro/img/instage/image.png"
+    },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
