@@ -7,8 +7,9 @@
   ,
   "filmsInLenta": [
     { "id": 1, "name": "Сисний жук", "img": "http://onlyreal.pro/img/inlenta/blue_bug.png", "feedbackRank": 10},
-    { "id": 2, "name": "Домашняя еда", "img": "http://onlyreal.pro/img/inlenta/home_food.png", "feedbackRank": 6.9}
-   
+    { "id": 2, "name": "Домашняя еда", "img": "http://onlyreal.pro/img/inlenta/home_food.png", "feedbackRank": 7},
+    { "id": 3, "name": "Салют 7", "img": "http://onlyreal.pro/img/inlenta/salut.png", "feedbackRank": 8},
+    { "id": 4, "name": "Поймай меня, если сможешь", "img": "http://onlyreal.pro/img/inlenta/catch_me.png", "feedbackRank": 7}
   ],
   "profile": {
     "name": "typicode"
