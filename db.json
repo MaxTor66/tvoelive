@@ -5,9 +5,9 @@
       "mainImg": "http://onlyreal.pro/img/instage/image.png"
     }
   ,
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "filmsInLenta": [
+    { "id": 1, "name": "Сисний жук", "img": "http://onlyreal.pro/img/inlenta/blue_bug.png", feedbackRank: 10},
+    { "id": 2, "name": "Домашняя еда", "img": "http://onlyreal.pro/img/inlenta/home_food.png", feedbackRank: 6.9}
   ],
   "profile": {
     "name": "typicode"
