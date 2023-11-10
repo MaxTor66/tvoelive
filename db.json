@@ -11,6 +11,11 @@
     { "id": 3, "name": "Салют 7", "img": "http://onlyreal.pro/img/inlenta/salut.png", "feedbackRank": 8},
     { "id": 4, "name": "Поймай меня, если сможешь", "img": "http://onlyreal.pro/img/inlenta/catch_me.png", "feedbackRank": 7}
   ],
+"filmsInTop": [
+    { "id": 1, "name": "Моё прекрасное несчастье", "mainImg": "http://onlyreal.pro/img/intop/mainImg/unluck.png", "topRank": 1},
+    { "id": 2, "name": "Красное уведомление", "mainImg": "http://onlyreal.pro/img/intop/mainImg/red.png", "topRank": 2},
+    { "id": 3, "name": "Ведьмак", "mainImg": "http://onlyreal.pro/img/intop/mainImg/witcher.png", "topRank": 3}
+  ], 
   "profile": {
     "name": "typicode"
   },
